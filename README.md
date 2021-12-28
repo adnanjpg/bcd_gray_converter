@@ -1,0 +1,1 @@
+A basic implementation of [gray code](https://en.wikipedia.org/wiki/Gray_code) to [bcd](https://en.wikipedia.org/wiki/Binary-coded_decimal) and vice versa conversion in [dart](https://en.wikipedia.org/wiki/Dart_(programming_language)).
